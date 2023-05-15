@@ -1,1 +1,1 @@
-# universityNeuroSky
+# UniversityNeuroSky
