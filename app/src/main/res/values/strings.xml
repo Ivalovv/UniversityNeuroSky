@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Neuro Sky</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect">Connect: </string>
+    <string name="signalQuality">SignalQuality: </string>
+    <string name="delta">Delta: </string>
+    <string name="theta">Theta: </string>
+    <string name="low_alpha">Low aplha: </string>
+    <string name="high_alpha">High alpha: </string>
+    <string name="low_beta">Low beta: </string>
+    <string name="high_beta">High beta: </string>
+    <string name="low_gamma">Low gamma: </string>
+    <string name="high_gamma">High gamma: </string>
+    <string name="state">State: </string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="save">Save</string>
+</resources>
